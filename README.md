@@ -39,9 +39,9 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 
 </div>
-<br>
-<a href=https://abel-cristofer.com" target="_blank">
-<img src="https://miportafoliodigital.com/wp-content/uploads/2020/06/logoMiportafolio.png" height="35" alt="linkedin logo"  /></a>
+<br />
+<a href="https://abel-cristofer.com" target="_blank">
+<img src="https://miportafoliodigital.com/wp-content/uploads/2020/06/logoMiportafolio.png" height="35" alt="Portafolio Web"  /></a>
 
 ###
 
@@ -52,3 +52,6 @@
 </picture>
 
 ###
+
+
+
